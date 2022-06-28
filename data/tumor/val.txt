@@ -1,0 +1,3 @@
+data/tumor/val/images/tumor-12.jpg
+data/tumor/val/images/tumor-13.jpg
+data/tumor/val/images/tumor-14.jpg

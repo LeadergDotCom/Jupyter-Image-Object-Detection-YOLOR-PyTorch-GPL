@@ -1,0 +1,10 @@
+data/tumor/train/images/tumor-1.jpg
+data/tumor/train/images/tumor-10.jpg
+data/tumor/train/images/tumor-11.jpg
+data/tumor/train/images/tumor-2.jpg
+data/tumor/train/images/tumor-3.jpg
+data/tumor/train/images/tumor-4.jpg
+data/tumor/train/images/tumor-6.jpg
+data/tumor/train/images/tumor-7.jpg
+data/tumor/train/images/tumor-8.jpg
+data/tumor/train/images/tumor-9.jpg

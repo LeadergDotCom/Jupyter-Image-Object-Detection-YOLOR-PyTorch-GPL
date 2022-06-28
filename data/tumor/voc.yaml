@@ -1,0 +1,10 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: data/tumor/train.txt  # 118k images
+val: data/tumor/val.txt  # 5k images
+
+# number of classes
+nc: 1
+
+# class names
+names: ['tumor']
+#names: ['tumor','tumor2']
